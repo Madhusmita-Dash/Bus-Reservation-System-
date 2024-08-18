@@ -1,6 +1,8 @@
 **Bus-Reservation-System**
 
-Here i created a Bus Reservation System where a user can  * login into the system
+Here i created a Bus Reservation System where a user can   
+                                                            
+                                                            * login into the system
                                                           
                                                             * See the available tickets
                                                              
@@ -8,4 +10,4 @@ Here i created a Bus Reservation System where a user can  * login into the syste
                                                              
                                                             * Cancel a ticket
                                                           
-                                                            *Exit
+                                                            * Exit
