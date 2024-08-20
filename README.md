@@ -10,4 +10,4 @@ Here i created a Bus Reservation System where a user can
                                                              
                                                             * Cancel a ticket
                                                           
-                                                            * Exit 
+                                                            * Exit
